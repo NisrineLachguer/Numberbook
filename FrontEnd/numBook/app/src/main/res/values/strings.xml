@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book number</string>
+    <string name="call_button">Appeler</string>
+    <string name="message_button">Envoyer un message</string>
+    <string name="search_field_description">Champ de recherche pour filtrer les contacts par nom ou numéro</string>
+    <string name="clear_search_description">Effacer le texte de recherche</string>
+    <string name="search_hint">Rechercher par nom ou numéro</string>
+    <color name="primary_light">#FFCCBC</color>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary2">#6200EE</color>
+    <color name="background">#F5F5F5</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="primary_text">#000000</color> <!-- Remplacez #000000 par la couleur souhaitée -->
+    <color name="secondary_text">#757575</color> <!-- Remplacez #757575 par la couleur souhaitée -->
+    <color name="primary">#6200EE</color> <!-- Remplacez #6200EE par la couleur souhaitée -->
+</resources>

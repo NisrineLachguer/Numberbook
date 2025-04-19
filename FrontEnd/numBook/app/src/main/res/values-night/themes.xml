@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="ToolbarTitle" parent="TextAppearance.MaterialComponents.Headline6">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+            <item name="android:textSize">24sp</item>
+            <item name="android:textStyle">bold</item>
+            <item name="android:letterSpacing">0.03</item>
+            <item name="android:textColor">@android:color/white</item>
+
+    </style>
+</resources>
